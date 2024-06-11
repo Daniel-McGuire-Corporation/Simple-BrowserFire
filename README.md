@@ -16,7 +16,7 @@ An explanation of the Firefox Source Code Directory Structure and links to
 project pages with documentation can be found on the [relevent page on firefox-source-docs](https://firefox-source-docs.mozilla.org/contributing/directory_structure.html). (Will be updated with more elaborate info soon) 
 
 ### Build Info
-For information on how to build Firefox from the source code see the [relevent page on firefox-source-docs](https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html).
+For information on how to build Simple Browser from the source code see the [Wiki](https://github.com/Daniel-McGuire-Corporation/SimpleBrowser-Fire/wiki/Build-Source).
 
 ### Questions?
 
