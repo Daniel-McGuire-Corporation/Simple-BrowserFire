@@ -1,7 +1,7 @@
 # Simple Browser Firefox Codebase
 ![License: MPL](https://img.shields.io/badge/license-MPL-orange)
 ![Language: C++](https://img.shields.io/badge/language-c%2B%2B-hotpink)
-![Lines of code](https://img.shields.io/badge/total_lines-25M%2B-lightgrey)
+![Lines of code](https://img.shields.io/badge/total_lines-33K-lightgrey)
 ![GitHub Release](https://img.shields.io/github/v/release/Daniel-McGuire-Corporation/SimpleBrowser-Fire?include_prereleases&sort=semver)
 
 We will stick with this version of firefox until no longer supported by Mozilla.
