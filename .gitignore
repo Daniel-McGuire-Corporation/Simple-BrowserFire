@@ -3,6 +3,10 @@
 # See docs/code-quality/lint/linters/ignorefile.rst for lint-ignore-next-line
 # syntax.
 
+# DMC INT DEVELOPMENT
+releases/
+releases/*
+
 # Filenames that should be ignored wherever they appear
 *~
 pusher.bat
